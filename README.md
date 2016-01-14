@@ -7,6 +7,6 @@ Una vistosa caja para identificarse usando pseudo-elementos como :before y :afte
 Demo
 ====
 
-![screenshot][demo](http://oscarweb.com.ar/ejemplos/css3-box-login/thumb.jpg)
+![screenshot](http://oscarweb.com.ar/ejemplos/css3-box-login/thumb.jpg)
 
 Don't forget to check the [live demo](http://oscarweb.com.ar/ejemplos/css3-box-login/)
